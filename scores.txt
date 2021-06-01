@@ -1,0 +1,112 @@
+ Date          Winner/tie                  Loser/tie                 PtsW PtsL YdsW  TOW YdsL  TOL
+10-Sep Kansas City Chiefs          Houston Texans            boxscore   34   20  369    0  360    1
+13-Sep Las Vegas Raiders         @ Carolina Panthers         boxscore   34   30  372    0  388    0
+13-Sep Buffalo Bills               New York Jets             boxscore   27   17  404    2  254    2
+13-Sep Seattle Seahawks          @ Atlanta Falcons           boxscore   38   25  383    0  506    2
+13-Sep Baltimore Ravens            Cleveland Browns          boxscore   38    6  381    1  306    3
+13-Sep New England Patriots        Miami Dolphins            boxscore   21   11  357    1  269    3
+13-Sep Jacksonville Jaguars        Indianapolis Colts        boxscore   27   20  241    0  445    2
+13-Sep Green Bay Packers         @ Minnesota Vikings         boxscore   43   34  522    0  382    1
+13-Sep Chicago Bears             @ Detroit Lions             boxscore   27   23  363    0  426    1
+13-Sep Washington Football Team    Philadelphia Eagles       boxscore   27   17  239    0  265    3
+13-Sep Los Angeles Chargers      @ Cincinnati Bengals        boxscore   16   13  362    0  295    2
+13-Sep New Orleans Saints          Tampa Bay Buccaneers      boxscore   34   23  271    0  310    3
+13-Sep Arizona Cardinals         @ San Francisco 49ers       boxscore   24   20  404    1  366    0
+13-Sep Los Angeles Rams            Dallas Cowboys            boxscore   20   17  422    1  380    0
+14-Sep Pittsburgh Steelers       @ New York Giants           boxscore   26   16  349    1  291    2
+14-Sep Tennessee Titans          @ Denver Broncos            boxscore   16   14  377    0  323    1
+ Date          Winner/tie                  Loser/tie                 PtsW PtsL YdsW  TOW YdsL  TOL
+17-Sep Cleveland Browns            Cincinnati Bengals        boxscore   35   30  434    1  353    1
+20-Sep Chicago Bears               New York Giants           boxscore   17   13  304    2  295    2
+20-Sep Los Angeles Rams          @ Philadelphia Eagles       boxscore   37   19  449    1  363    3
+20-Sep San Francisco 49ers       @ New York Jets             boxscore   31   13  359    1  277    0
+20-Sep Tampa Bay Buccaneers        Carolina Panthers         boxscore   31   17  339    2  427    4
+20-Sep Buffalo Bills             @ Miami Dolphins            boxscore   31   28  523    1  410    0
+20-Sep Dallas Cowboys              Atlanta Falcons           boxscore   40   39  570    3  380    0
+20-Sep Pittsburgh Steelers         Denver Broncos            boxscore   26   21  410    2  319    2
+20-Sep Tennessee Titans            Jacksonville Jaguars      boxscore   33   30  354    0  480    2
+20-Sep Indianapolis Colts          Minnesota Vikings         boxscore   28   11  354    1  175    3
+20-Sep Green Bay Packers           Detroit Lions             boxscore   42   21  488    0  307    1
+20-Sep Arizona Cardinals           Washington Football Team  boxscore   30   15  438    1  316    2
+20-Sep Baltimore Ravens          @ Houston Texans            boxscore   33   16  407    0  304    2
+20-Sep Kansas City Chiefs        @ Los Angeles Chargers      boxscore   23   20  414    0  479    1
+20-Sep Seattle Seahawks            New England Patriots      boxscore   35   30  429    1  464    1
+21-Sep Las Vegas Raiders           New Orleans Saints        boxscore   34   24  377    1  424    1
+ Date          Winner/tie                  Loser/tie                 PtsW PtsL YdsW  TOW YdsL  TOL
+24-Sep Miami Dolphins            @ Jacksonville Jaguars      boxscore   31   13  294    0  318    2
+27-Sep San Francisco 49ers       @ New York Giants           boxscore   36    9  420    0  231    3
+27-Sep New England Patriots        Las Vegas Raiders         boxscore   36   20  406    1  375    3
+27-Sep Cleveland Browns            Washington Football Team  boxscore   34   20  300    0  309    5
+27-Sep Pittsburgh Steelers         Houston Texans            boxscore   28   21  387    0  260    1
+27-Sep Tennessee Titans          @ Minnesota Vikings         boxscore   31   30  444    1  464    3
+27-Sep Buffalo Bills               Los Angeles Rams          boxscore   35   32  375    2  478    2
+27-Sep Chicago Bears             @ Atlanta Falcons           boxscore   30   26  437    2  371    1
+27-Sep Philadelphia Eagles         Cincinnati Bengals        boxscore   23   23  381    2  304    0
+27-Sep Indianapolis Colts          New York Jets             boxscore   36    7  353    0  260    3
+27-Sep Carolina Panthers         @ Los Angeles Chargers      boxscore   21   16  302    0  436    4
+27-Sep Seattle Seahawks            Dallas Cowboys            boxscore   38   31  412    1  522    3
+27-Sep Tampa Bay Buccaneers      @ Denver Broncos            boxscore   28   10  353    0  226    2
+27-Sep Detroit Lions             @ Arizona Cardinals         boxscore   26   23  322    0  377    3
+27-Sep Green Bay Packers         @ New Orleans Saints        boxscore   37   30  369    0  397    1
+28-Sep Kansas City Chiefs        @ Baltimore Ravens          boxscore   34   20  517    1  228    1
+ Date          Winner/tie                  Loser/tie                 PtsW PtsL YdsW  TOW YdsL  TOL
+1-Oct  Denver Broncos            @ New York Jets             boxscore   37   28  359    3  321    0
+4-Oct  Cincinnati Bengals          Jacksonville Jaguars      boxscore   33   25  505    1  429    1
+4-Oct  Baltimore Ravens          @ Washington Football Team  boxscore   31   17  350    2  343    1
+4-Oct  New Orleans Saints        @ Detroit Lions             boxscore   35   29  392    1  281    1
+4-Oct  Indianapolis Colts        @ Chicago Bears             boxscore   19   11  289    0  269    1
+4-Oct  Tampa Bay Buccaneers        Los Angeles Chargers      boxscore   38   31  484    1  324    2
+4-Oct  Cleveland Browns          @ Dallas Cowboys            boxscore   49   38  508    0  566    3
+4-Oct  Minnesota Vikings         @ Houston Texans            boxscore   31   23  410    0  386    1
+4-Oct  Seattle Seahawks          @ Miami Dolphins            boxscore   31   23  441    1  415    2
+4-Oct  Carolina Panthers           Arizona Cardinals         boxscore   31   21  444    1  262    1
+4-Oct  Los Angeles Rams            New York Giants           boxscore   17    9  240    1  295    1
+4-Oct  Buffalo Bills             @ Las Vegas Raiders         boxscore   30   23  337    0  383    2
+4-Oct  Philadelphia Eagles       @ San Francisco 49ers       boxscore   25   20  267    1  417    3
+5-Oct  Kansas City Chiefs          New England Patriots      boxscore   26   10  323    1  357    4
+5-Oct  Green Bay Packers           Atlanta Falcons           boxscore   30   16  403    0  327    0
+ Date          Winner/tie                  Loser/tie                 PtsW PtsL YdsW  TOW YdsL  TOL
+8-Oct  Chicago Bears               Tampa Bay Buccaneers      boxscore   20   19  243    1  339    1
+11-Oct Arizona Cardinals         @ New York Jets             boxscore   30   10  496    1  285    0
+11-Oct Las Vegas Raiders         @ Kansas City Chiefs        boxscore   40   32  490    1  413    1
+11-Oct Carolina Panthers         @ Atlanta Falcons           boxscore   23   16  437    0  373    1
+11-Oct Baltimore Ravens            Cincinnati Bengals        boxscore   27    3  332    1  205    3
+11-Oct Los Angeles Rams          @ Washington Football Team  boxscore   30   10  429    1  108    0
+11-Oct Pittsburgh Steelers         Philadelphia Eagles       boxscore   38   29  367    1  336    2
+11-Oct Houston Texans              Jacksonville Jaguars      boxscore   30   14  486    2  364    2
+11-Oct Miami Dolphins            @ San Francisco 49ers       boxscore   43   17  436    0  259    3
+11-Oct Dallas Cowboys              New York Giants           boxscore   37   34  402    2  300    1
+11-Oct Cleveland Browns            Indianapolis Colts        boxscore   32   23  385    2  308    2
+11-Oct Seattle Seahawks            Minnesota Vikings         boxscore   27   26  314    1  449    2
+12-Oct New Orleans Saints          Los Angeles Chargers      boxscore   30   27  408    1  350    0
+13-Oct Tennessee Titans            Buffalo Bills             boxscore   42   16  334    0  370    3
+ Date          Winner/tie                  Loser/tie                 PtsW PtsL YdsW  TOW YdsL  TOL
+18-Oct Denver Broncos            @ New England Patriots      boxscore   18   12  299    2  288    3
+18-Oct Detroit Lions             @ Jacksonville Jaguars      boxscore   34   16  403    1  275    2
+18-Oct Chicago Bears             @ Carolina Panthers         boxscore   23   16  261    1  303    3
+18-Oct Pittsburgh Steelers         Cleveland Browns          boxscore   38    7  277    0  220    2
+18-Oct Tennessee Titans            Houston Texans            boxscore   42   36  607    2  412    0
+18-Oct Atlanta Falcons           @ Minnesota Vikings         boxscore   40   23  462    1  365    3
+18-Oct Indianapolis Colts          Cincinnati Bengals        boxscore   31   27  430    2  398    1
+18-Oct New York Giants             Washington Football Team  boxscore   20   19  240    1  337    2
+18-Oct Baltimore Ravens          @ Philadelphia Eagles       boxscore   30   28  355    0  364    1
+18-Oct Miami Dolphins              New York Jets             boxscore   24    0  302    2  263    1
+18-Oct Tampa Bay Buccaneers        Green Bay Packers         boxscore   38   10  324    0  201    2
+18-Oct San Francisco 49ers         Los Angeles Rams          boxscore   24   16  390    0  311    1
+19-Oct Kansas City Chiefs        @ Buffalo Bills             boxscore   26   17  466    1  206    1
+19-Oct Arizona Cardinals         @ Dallas Cowboys            boxscore   38   10  438    0  344    4
+ Date          Winner/tie                  Loser/tie                 PtsW PtsL YdsW  TOW YdsL  TOL
+22-Oct Philadelphia Eagles         New York Giants           boxscore   22   21  442    1  325    3
+25-Oct Pittsburgh Steelers       @ Tennessee Titans          boxscore   27   24  362    3  292    0
+25-Oct Green Bay Packers         @ Houston Texans            boxscore   35   20  379    0  365    1
+25-Oct New Orleans Saints          Carolina Panthers         boxscore   27   24  415    1  283    0
+25-Oct Buffalo Bills             @ New York Jets             boxscore   18   10  422    1  191    2
+25-Oct Detroit Lions             @ Atlanta Falcons           boxscore   23   22  386    0  388    1
+25-Oct Cleveland Browns          @ Cincinnati Bengals        boxscore   37   34  398    1  468    2
+25-Oct Washington Football Team    Dallas Cowboys            boxscore   25    3  397    0  142    1
+25-Oct Tampa Bay Buccaneers      @ Las Vegas Raiders         boxscore   45   20  454    0  347    1
+25-Oct San Francisco 49ers       @ New England Patriots      boxscore   33    6  467    2  241    4
+25-Oct Kansas City Chiefs        @ Denver Broncos            boxscore   43   16  286    1  411    4
+25-Oct Los Angeles Chargers        Jacksonville Jaguars      boxscore   39   29  484    0  294    1
+25-Oct Arizona Cardinals           Seattle Seahawks          boxscore   37   34  519    2  572    3
+26-Oct Los Angeles Rams            Chicago Bears             boxscore   24   10  371    1    2
