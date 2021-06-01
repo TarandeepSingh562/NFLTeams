@@ -1,0 +1,56 @@
+/*
+
+American Football Conference
+
+East Division             W     L     T     Pct
+Buffalo Bills             5     2     0   0.714
+Miami Dolphins            3     3     0   0.500
+New England Patriots      2     4     0   0.333
+New York Jets             0     7     0   0.000
+
+North division            W     L     T     Pct
+Pittsburgh Steelers       6     0     0   1.000
+Baltimore Ravens          5     1     0   0.833
+Cleveland Browns          5     2     0   0.714
+Cincinnati Bengals        1     5     1   0.214
+
+South Division            W     L     T     Pct
+Tennessee Titans          5     1     0   0.833
+Indianapolis Colts        4     2     0   0.667
+Jacksonville Jaguars      1     6     0   0.143
+Houston Texans            1     6     0   0.143
+
+West Division             W     L     T     Pct
+Kansas City Chiefs        6     1     0   0.857
+Las Vegas Raiders         3     3     0   0.500
+Denver Broncos            2     4     0   0.333
+Los Angeles Chargers      2     4     0   0.333
+
+National Football Conference
+
+East Division             W     L     T     Pct
+Philadelphia Eagles       2     4     1   0.357
+Dallas Cowboys            2     5     0   0.286
+Washington Football Team  2     5     0   0.286
+New York Giants           1     6     0   0.143
+
+North division            W     L     T     Pct
+Green Bay Packers         5     1     0   0.833
+Chicago Bears             5     2     0   0.714
+Detroit Lions             3     3     0   0.500
+Minnesota Vikings         1     5     0   0.167
+
+South Division            W     L     T     Pct
+Tampa Bay Buccaneers      5     2     0   0.714
+New Orleans Saints        4     2     0   0.667
+Carolina Panthers         3     4     0   0.429
+Atlanta Falcons           1     6     0   0.143
+
+West Division             W     L     T     Pct
+Seattle Seahawks          5     1     0   0.833
+Los Angeles Rams          5     2     0   0.714
+Arizona Cardinals         5     2     0   0.714
+San Francisco 49ers       4     3     0   0.571
+
+
+*/
